@@ -1,3 +1,3 @@
-# yasamanb.github.io
+# Academic Page
 
-My academic page: https://yasamanb.github.io/
+Found at https://yasamanb.github.io/
